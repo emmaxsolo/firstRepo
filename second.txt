@@ -1,3 +1,5 @@
+Added a new first line
+
 Here is my second file.
 It has some different text.
 LOLOLOL slay
